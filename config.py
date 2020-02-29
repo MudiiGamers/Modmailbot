@@ -1,5 +1,5 @@
 # Bot's token
-token = ""
+token = "NjgxMDk3NDkzMjM2MTU0MzY4.Xlncnw.1s0EciLFodu9woEVoDNp7fBkMio"
 
 # DiscordBotList token
 dbl_token = ""
@@ -31,7 +31,7 @@ activity = [
 ]
 
 # The main bot owner
-owner = 000000000000000000
+owner = 555905845867708437
 
 # Bot owners that have access to owner commands
 owners = [
